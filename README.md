@@ -2,7 +2,9 @@ In this exercise we will find a simple performance problem. We will see how it i
 
 
 Clone the repository https://github.com/tamartwe/basic_performance_workshop
+
 Install autocannon - a nice tool to generate load on your system , by doing npm install autocannon -g
+
 The repository contains 2 scripts - crypto_server.js and crypto_server_with_profiler.js
 Run the script crypto_server.js by doing in your command line 
 node crypto_server.js
